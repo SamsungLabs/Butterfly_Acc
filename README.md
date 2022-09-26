@@ -1,5 +1,5 @@
 # NPU Transformer
-Hardware Architecture/Accelerator for Transformer
+Hardware Architecture/Accelerator for Transformer. The latest codes and updates are maintainted in this github [repo](https://github.com/os-hxfan/Butterfly_Acc).
 ## 1. Structure
 
 ```
@@ -67,4 +67,17 @@ The code and scripts of evaluating accuracy are put under `software/accuracy/`.
 
 All the scripts are put under the folder `./script_figs`, we refer reviewers/users to read [instruction](./script_figs/README.md) before running it. Some training may take over hunderds of GPU hours to finish, so we also attach our log files in google drive [link](https://drive.google.com/drive/folders/1zn38AjjQvqHZh-xsmeeIFK2BA-poIRAn?usp=sharing).
 
+## Citation 
 
+Our paper is online now ([link](https://arxiv.org/pdf/2209.09570.pdf))! If you found it helpful, pls cite us using:
+
+
+``` 
+@inproceedings{fan2022adaptable,
+  title={Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design},
+  author={Fan, Hongxiang and Chau, Thomas and Venieris, Stylianos I and Lee, Royson and Kouris, Alexandros and Luk, Wayne and Lane, Nicholas D and Abdelfattah, Mohamed S},
+  booktitle={MICRO-55: 55th Annual IEEE/ACM International Symposium on Microarchitecture},
+  year={2022}
+}
+
+```
