@@ -1,0 +1,5 @@
+bash half_precision_fabnet_image.sh
+bash half_precision_fabnet_path.sh
+bash half_precision_fabnet_text.sh
+bash half_precision_fabnet_listops.sh
+bash half_precision_fabnet_retrieval.sh 

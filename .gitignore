@@ -1,0 +1,11 @@
+log*.txt
+lra_release*
+software/experiments
+*.pyc
+.DS_Store
+*.pickle
+*.log
+*.pdf
+software/src/LRA/logs/*
+software/src/LRA/code/fabnet_quant/logs/*.log
+software/src/LRA/code/acc_impact/log/*.log
