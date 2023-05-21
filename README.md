@@ -1,5 +1,5 @@
-# NPU Transformer
-Hardware Architecture/Accelerator for Transformer. The latest codes and updates are maintainted in this github [repo](https://github.com/os-hxfan/Butterfly_Acc).
+# Butterfly Accelerator for Efficient Transformer
+Hardware architecture/accelerator for *FABNET*, an efficient Transformer sparsified by Fast Fourier Transform and Butterfly Matrix. Check our [paper](https://arxiv.org/pdf/2209.09570.pdf) for details.
 ## 1. Structure
 
 ```
