@@ -1,5 +1,5 @@
-# NPU Transformer
-Hardware Architecture/Accelerator for Transformer. The latest codes and updates are maintainted in this github [repo](https://github.com/os-hxfan/Butterfly_Acc).
+# Adaptable Butterfly Accelerator for Attention-based Neural Networks
+Hardware Architecture/Accelerator for Transformer inference using butterfly sparsity.
 ## 1. Structure
 
 ```
